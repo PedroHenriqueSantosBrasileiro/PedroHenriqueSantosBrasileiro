@@ -7,16 +7,14 @@
 </div>
 
 ##
-<div style="display: flex; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" widht="70px" height="70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="center" widht="100px" height="100px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" align="center" widht="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" widht="70px" height="70px"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  align="center" widht="70px" height="70px" />
-          
-            
-
+<div align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
 </div>
+
 
 
 
