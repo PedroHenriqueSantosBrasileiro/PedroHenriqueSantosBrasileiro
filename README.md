@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @PedroHenriqueSantosBrasileiro
-- 👀 I’m interested in java 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Bem vindo ao meu GitHub
 
-<!---
-PedroHenriqueSantosBrasileiro/PedroHenriqueSantosBrasileiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+![Estatísticas do GitHub de PedroHenriqueSantosBrasileiro](https://github-readme-stats.vercel.app/api?username=PedroHenriqueSantosBrasileiro&show_icons=true&theme=radical)
+
+</div>
+
