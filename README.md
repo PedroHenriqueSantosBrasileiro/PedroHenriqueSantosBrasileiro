@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b59961aa-9f07-400d-9027-824c3a2353d6)## Bem vindo ao meu GitHub
+## Bem vindo ao meu GitHub
 <h2 align="left"></h2>
 
 ###
